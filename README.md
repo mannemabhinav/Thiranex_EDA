@@ -99,6 +99,9 @@ The dataset contains retail store sales information including:
 - Heatmaps
 - Histograms
 - Boxplots
+<img width="544" height="376" alt="Screenshot 2026-05-20 190611" src="https://github.com/user-attachments/assets/4e0ae53f-effe-4e9a-9e4f-765850303c07" />
+<img width="507" height="304" alt="Screenshot 2026-05-20 190634" src="https://github.com/user-attachments/assets/f2ba0bb5-898a-4172-8a7f-c89873e00771" />
+<img width="530" height="307" alt="Screenshot 2026-05-20 190727" src="https://github.com/user-attachments/assets/87fd9ab6-8f53-4c18-9264-d957876a8709" />
 
 ---
 
